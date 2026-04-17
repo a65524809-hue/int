@@ -1,0 +1,50 @@
+CANDIDATE: Pranav Jasyal
+Location: Kangra, India – 177043
+Email: pranavjasyal2006@gmail.com
+Phone: +91 7876121696
+LinkedIn: pranav.linkedin
+GitHub: pranav.github
+
+SUMMARY
+Third-year Computer Science Engineering student with strong foundations in Python programming, Object-Oriented Programming, Data Structures, SQL, and SDLC. Experienced in building and testing full-stack web applications, writing test cases, performing validation, debugging defects, and automating workflows. Skilled in automation testing concepts, API testing, and quality assurance practices. Passionate about QC Engineering, test automation frameworks, and delivering high-quality, reliable software systems with a strong learning mindset.
+
+EDUCATION
+Chitkara University, Baddi, Himachal Pradesh
+Bachelor of Engineering in Computer Science — Expected Graduation: June 2027
+Related Coursework: Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, System Design, Computer Networks, Front-end and Back-end Engineering, Machine Learning, Artificial Intelligence, Statistics & Applications
+
+SKILLS
+Programming: Java, Python, JavaScript, SQL
+Testing & Automation: Test Case Design, Functional Testing, Regression Testing, Defect Tracking, Debugging, Validation and Verification, API Testing, Selenium, Postman, Automation Scripts, STLC
+Concepts: SDLC, OOP, Database Fundamentals, Logical Problem Solving
+Tools: IntelliJ IDEA, AWS, Jupyter Notebook, Git
+
+PROJECTS
+
+NotesX – University Notes Sharing Platform
+Role: Individual | Aug 2025 – Sep 2025
+- Developed and tested a full-stack web application using React, Node.js, and MongoDB, designed test cases, performed functional and API testing, validated database consistency, and debugged defects to ensure reliable upload/download workflows.
+- Technologies: React.js, Node.js, Express.js, MongoDB, Firebase.
+
+SignifyX – Real-Time Sign Language Detection Platform
+Role: Team Lead | Jan 2025 – Mar 2025
+- Built and validated an ML-based gesture recognition system using Flask, OpenCV, and MediaPipe, and created test scenarios for model predictions and APIs, executed regression testing, handled edge cases, and improved system reliability through structured debugging.
+- Technologies: Python (Flask), OpenCV, MediaPipe, REST APIs.
+
+ConnectX – Social Media Website
+Role: Team Member | Jan 2024 – Feb 2024
+- Developed a MERN-stack social platform and conducted integration, functional, and regression testing across front-end, back-end, and database modules, identified authentication defects and optimized performance and stability by 30%.
+- Technologies: MongoDB, Express.js, React.js, Node.js (MERN Stack).
+
+ACTIVITIES AND LEADERSHIP
+Computer Society of India, Chitkara University, Himachal Pradesh — President (Aug 2025 – Present)
+- Led 100+ members and coordinated technical events, hackathons, and innovation challenges.
+- Promoted problem-solving, logical thinking, collaboration, and quality practices.
+- Organized workshops on software development, testing, and emerging technologies.
+
+CERTIFICATIONS
+- Junior Software Developer (NSQF Level 4) — NASSCOM - Govt. of India
+- Cisco Certified Network Associate (CCNA) – Networking — Cisco
+- Technology Job Simulation (Forage) — Deloitte
+- Software Engineering Fundamentals – Software Development and Testing — Infosys Springboard
+- On-the-Job Training — NSDC Skill India

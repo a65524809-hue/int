@@ -1,0 +1,19 @@
+# InterviewWhisper - Python dependencies
+# Install: pip install -r requirements.txt
+
+# Global hotkeys (key down/up for hold-to-record)
+pynput>=1.7.6
+
+# Audio recording
+sounddevice>=0.4.6
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Gemini: transcription (audio → text) and answers (text → answer)
+google-generativeai>=0.8.0
+
+# Optional: local STT (uncomment for offline)
+# vosk>=0.3.45
+
+# Screenshot capture for exam mode (MCQ from on-screen image)
+Pillow>=10.0.0

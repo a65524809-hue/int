@@ -1,0 +1,13 @@
+{
+  "gemini_api_key": "YOUR_GEMINI_API_KEY",
+  "gemini_api_keys": [
+    "YOUR_GEMINI_API_KEY_1",
+    "YOUR_GEMINI_API_KEY_2"
+  ],
+  "hotkey_record": ["alt", "r"],
+  "hotkey_clear": ["alt", "c"],
+  "llm_model": "gemini-2.5-flash",
+  "transparency": 0.8,
+  "exclude_from_capture": true,
+  "stt_provider": "gemini"
+}
