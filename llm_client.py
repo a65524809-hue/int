@@ -49,7 +49,7 @@ CODE_PROMPT = (
     "Your job:\n"
     "1. Read the entire problem carefully.\n"
     "2. Write an optimal, bug-free solution in C++.\n"
-    "3. Output exactly and ONLY the raw C++ code. Do NOT under any circumstances include any markdown formatting wrappers (like ```cpp or ```).\n"
+    "3. Output exactly and ONLY the raw typescript code. Do NOT under any circumstances include any markdown formatting wrappers (like ```cpp or ```).\n"
     "4. Do NOT include explanations, comments about time complexity, intro/outro text, or conversational text. Simply output the raw code and nothing else.\n"
 )
 
